@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed&display=swap');
+  
+body{
+    font-family: Arial;
+}
+.sofi{
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    letter-spacing: 0.5rem;
+}
+h1{
+    background-color: #04779e;
+    color: azure;
+}
+img{
+    width: 8rem;
+    height: 8.5rem;
+}
+span{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #04779e;
+}
+p{
+    border-top: 2px rgb(65, 62, 62) solid;
+    text-align: center;
+}
